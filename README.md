@@ -59,9 +59,9 @@ A word can have multiple parts of speech, each with its own meanings.
 
 ## Tech Stack
 
-To be determined.
-
 The initial implementation will prioritize simplicity, lightweight architecture, and ease of maintenance.
+
+react ts + node js
 
 ## Project Status
 
