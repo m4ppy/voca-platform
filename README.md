@@ -65,7 +65,7 @@ react ts + node js
 
 ## Project Status
 
-**v0 — Planning**
+**v0 — Prototype**
 
 Currently designed for personal use and local development.
 
